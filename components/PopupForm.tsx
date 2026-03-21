@@ -111,7 +111,7 @@ const PopupForm: React.FC = () => {
               </button>
               
               <p className="text-center text-[10px] sm:text-xs text-slate-400">
-                By submitting, you agree to our [Terms](https://www.google.com) and Privacy Policy.
+                By submitting, you have received a message from our side.
               </p>
             </form>
           </motion.div>
