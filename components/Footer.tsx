@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div className="space-y-6">
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 bg-brand-500 rounded-lg flex items-center justify-center text-white font-bold"></div>
-              <span className="text-xl font-bold tracking-tight text-white">NUMBERDAR PROPERTIES</span>
+              <span className="text-xl font-bold tracking-tight text-white">ARYA PROPERTIES</span>
             </div>
             <p className="text-sm leading-relaxed">
               We provide the most exclusive real estate deals. Our platform is built on trust, transparency and technology.
@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="pt-10 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs">
-          <p>© 2026 NUMBERDAR PROPERTIES. All rights reserved.</p>
+          <p>© 2026  Arya PROPERTIES. All rights reserved.</p>
           <div className="flex gap-6">
             <span className="flex items-center gap-1">🌐 English (US)</span>
             <span className="flex items-center gap-1">💰 IND</span>

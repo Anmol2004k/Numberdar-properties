@@ -36,21 +36,21 @@ const Contact: React.FC = () => {
                   <div className="mt-1">📍</div>
                   <div>
                     <h4 className="font-bold">Head Office</h4>
-                    <p className="text-sm text-brand-100">Railway road Ganuar</p>
+                    <p className="text-sm text-brand-100"> Sector 2, Sonipat, Haryana</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
                   <div className="mt-1">📞</div>
                   <div>
                     <h4 className="font-bold">Call Us</h4>
-                    <p className="text-sm text-brand-100">+91 75033 00060</p>
+                    <p className="text-sm text-brand-100">+91 7404912841</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
                   <div className="mt-1">✉️</div>
                   <div>
                     <h4 className="font-bold">Email Us</h4>
-                    <p className="text-sm text-brand-100">numberdar-properties@gmail.com</p>
+                    <p className="text-sm text-brand-100">aryapropperties@gmail.com</p>
                   </div>
                 </div>
               </div>
