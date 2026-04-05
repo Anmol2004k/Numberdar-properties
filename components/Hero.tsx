@@ -15,10 +15,10 @@ const Hero: React.FC = () => {
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
             <span className="inline-block px-4 py-1.5 rounded-full bg-brand-100 dark:bg-brand-900/30 text-brand-600 dark:text-brand-400 text-sm font-semibold mb-6">
-              Ganuar's Premier Real Estate Agency
+              Sonipat Premier Real Estate Agency
             </span>
             <h1 className="text-5xl md:text-7xl font-extrabold text-slate-900 dark:text-white leading-[1.1] mb-6">
-              Find Your <span className="text-brand-500">Dream Properties</span> In Ganuar.
+              Find Your <span className="text-brand-500">Dream Properties</span> In Sonipat.
             </h1>
             <p className="text-lg text-slate-600 dark:text-slate-400 mb-10 max-w-lg">
               We provide a complete service for the sale, purchase or rental of real estate. We have more than 3,000+ premium listings across major location of NCR.
@@ -63,10 +63,10 @@ const Hero: React.FC = () => {
               <div className="absolute bottom-6 left-6 right-6 p-6 glass rounded-2xl shadow-xl border border-white/20">
                 <div className="flex justify-between items-center">
                   <div>
-                    <h3 className="font-bold text-lg dark:text-white">The Devine City Mansion</h3>
-                    <p className="text-slate-500 dark:text-slate-400 text-sm">NH-1 highway, Ganuar</p>
+                    <h3 className="font-bold text-lg dark:text-white">Sonipat City Mansion</h3>
+                    <p className="text-slate-500 dark:text-slate-400 text-sm">NH-1 highway, Sonipat</p>
                   </div>
-                  <p className="text-xl font-bold text-brand-500">₹20,00,00,000</p>
+                  <p className="text-xl font-bold text-brand-500">₹2,00,00,000</p>
                 </div>
               </div>
             </div>
