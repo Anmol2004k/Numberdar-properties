@@ -19,8 +19,8 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center gap-2">
-            <div className="w-8 h-8 bg-brand-500 rounded-lg flex items-center justify-center text-white font-bold">N-P</div>
-            <span className="text-xl font-bold tracking-tight text-slate-900 dark:text-white">NumberDar Properties</span>
+            <div className="w-8 h-8 bg-brand-500 rounded-lg flex items-center justify-center text-white font-bold">A-P</div>
+            <span className="text-xl font-bold tracking-tight text-slate-900 dark:text-white">ARYA Properties</span>
           </div>
 
           {/* Desktop Nav */}
